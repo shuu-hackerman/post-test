@@ -1,6 +1,7 @@
 import './App.css';
 import {useState, useEffect} from "react";
 import axios from "axios"
+import Pandas from pandas
 import Posts_list from './components/Post_list';
 import Error_page from './components/Error_page';
 
